@@ -1,8 +1,8 @@
-/*
+.mjx-rtl{
+	direction: rtl;
+}
 
-This CSS file will be included with your plugin, and
-available in the app when your plugin is enabled.
-
-If your plugin does not need CSS, delete this file.
-
-*/
+.mjx-ltr,
+.mjx-rtl :where(:not(.mjx-rtl, mjx-mtext, mjx-c)) {
+	direction: ltr;
+}
