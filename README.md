@@ -47,11 +47,19 @@ $$
 
 ## Manually installing the plugin
 
-- Clone or download this repo into your `.obsidian/plugins/` folder and name it `rtl-math-text`
+- Download the latest release from [the release page](https://github.com/orelby/obsidian-rtl-math-text-plugin/releases)
+- Unzip & copy the files into your `.obsidian/plugins/rtl-math-text` folder
+- Enable the plugin from Obsidian settings
+- Reload Obsidian or reopen your notes
+
+
+## Manually building the plugin
+
+- Clone or download this repo
 - Make sure your NodeJS is at least v16 (`node --version`)
 - `npm i` or `yarn` to install dependencies
-- `npm run build` to start compilation in watch mode
-- Enable the plugin from Obsidian settings
+- `npm run build` for production build (or `npm run dev` for dev build in watch mode)
+- Copy `main.js`, `styles.css`, and `manifest.json` into your `.obsidian/plugins/rtl-math-text` folder
 
 ---
 
