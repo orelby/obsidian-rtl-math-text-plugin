@@ -1,9 +1,9 @@
 {
-	"id": "obsidian-rtl-math-text",
+	"id": "rtl-math-text",
 	"name": "RTL Math Text",
 	"version": "0.0.1",
 	"minAppVersion": "0.16.0",
-	"description": "Mix right-to-left and left-to-right text in math expressions using configurable commands (default: \\R{} for RTL and \\L{} for LTR).",
+	"description": "Mix right-to-left and left-to-right text in math expressions using configurable commands.",
 	"author": "orelby",
 	"authorUrl": "",
 	"isDesktopOnly": false

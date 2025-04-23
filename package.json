@@ -1,5 +1,5 @@
 {
-	"name": "obsidian-rtl-math-text",
+	"name": "obsidian-rtl-math-text-plugin",
 	"version": "0.0.1",
 	"description": "A plugin for Obsidian (https://obsidian.md) that adds support for RTL in math expressions.",
 	"main": "main.js",
