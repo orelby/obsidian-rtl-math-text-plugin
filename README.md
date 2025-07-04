@@ -1,6 +1,6 @@
-# Obsidian RTL Math Text Plugin
+# RTL Math Text
 
-**RTL Math Text** is an [Obsidian](https://obsidian.md) plugin that adds basic support for mixing right-to-left (RTL) and left-to-right (LTR) text in MathJax math expressions through the use of custom LaTeX commands.
+**RTL Math Text** is a plugin for [Obsidian](https://obsidian.md) that adds basic support for mixing right-to-left (RTL) and left-to-right (LTR) text in MathJax expressions through the use of custom LaTeX commands.
 
 ---
 
