@@ -183,7 +183,7 @@ class RtlMathTextSettingsTab extends PluginSettingTab {
 		new Setting(containerEl)
 			.addButton(btn =>
 				btn
-					.setButtonText('Restore Defaults')
+					.setButtonText('Restore defaults')
 					.onClick(async () => {
 						this.plugin.settings.cmds = { ...DEFAULT_CMDS };
 						await this.plugin.saveSettings();
